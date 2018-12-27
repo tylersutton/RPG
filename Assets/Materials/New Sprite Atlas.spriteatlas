@@ -1781,6 +1781,11 @@ SpriteAtlas:
   - {fileID: 21300020, guid: 3a47360b117ef4e83b0736f4d5178ee4, type: 3}
   - {fileID: 21300022, guid: 3a47360b117ef4e83b0736f4d5178ee4, type: 3}
   - {fileID: 21300000, guid: 925ce37ba4356442593b3434310ce3d8, type: 3}
+  - {fileID: 21300002, guid: 925ce37ba4356442593b3434310ce3d8, type: 3}
+  - {fileID: 21300006, guid: d13ec39b42bdb447db3138b65e91c1b5, type: 3}
+  - {fileID: 21300004, guid: d13ec39b42bdb447db3138b65e91c1b5, type: 3}
+  - {fileID: 21300002, guid: d13ec39b42bdb447db3138b65e91c1b5, type: 3}
+  - {fileID: 21300000, guid: d13ec39b42bdb447db3138b65e91c1b5, type: 3}
   m_PackedSpriteNamesToIndex:
   - red_sword
   - silver_sword
@@ -3518,6 +3523,11 @@ SpriteAtlas:
   - GamesPlusJames_RPG-Character_13
   - GamesPlusJames_RPG-Character_10
   - GamesPlusJames_RPG-Character_11
-  - swing effects
+  - swing big
+  - swing small
+  - GamesPlusJames_RPG-Villagers_3
+  - GamesPlusJames_RPG-Villagers_2
+  - GamesPlusJames_RPG-Villagers_1
+  - GamesPlusJames_RPG-Villagers_0
   m_Tag: New Sprite Atlas
   m_IsVariant: 0

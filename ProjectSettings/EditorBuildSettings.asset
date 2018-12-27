@@ -6,10 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
+    path: 
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/HouseOutside.unity
+    path: Assets/Scenes/main.unity
     guid: f52629b78394e48b4a35639bd1fe5659
   - enabled: 1
     path: Assets/Scenes/HouseInside.unity
@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/NeighborHouse1.unity
     guid: 86e7d146661fd4611aff338cade91409
+  - enabled: 1
+    path: Assets/Scenes/mainDark.unity
+    guid: 2080f2e68d6464363aab1f137b598653
   m_configObjects: {}
